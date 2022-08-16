@@ -1,0 +1,36 @@
+.navbar-nav .nav-link.active,
+.navbar-nav .show>.nav-link {
+    color: #ffff;
+}
+
+.nav-link {
+    color: #ffff;
+}
+
+#t_center {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#subscribe {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100%;
+}
+
+.box_size {
+    width: 50%;
+    padding: 10px;
+    border: none;
+    color: #ffff;
+    background-color: #3b4b6b;
+}
+.list {
+    text-decoration: none;
+    color: #ffff;
+}
+.f_50 {
+    font-size: xx-large;
+}
